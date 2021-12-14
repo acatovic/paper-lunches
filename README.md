@@ -21,3 +21,5 @@ To then run the notebook in the presentation mode, simply run `run_presentation.
 ## List of Papers
 
 [No Training Required: Exploring Random Encoders for Sentence Classification, J. Wieting, D. Kiela](fb-randsent/randsent.ipynb)
+
+[Is Automated Topic Model Evaluation Broken? The Incoherence of Coherence, A. Hoyle, P. Goel, D. Peskov, A. Hian-Cheong, J. Boyd-Graber and P. Resnik](umd-coherence/coherence.ipynb)
