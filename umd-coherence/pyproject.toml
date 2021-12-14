@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "umd-coherence"
+version = "0.1.0"
+description = "Jupyter Notebook and presentation of NeurIPS 2021 paper 'Is Automated Topic Model Evaluation Broken?: The Incoherence of Coherence' by Alexander Hoyle et al (University of Maryland)"
+authors = ["Armin Catovic <armin.catovic@hotmail.se>"]
+
+[tool.poetry.dependencies]
+python = "^3.6.2"
+torch = "^1.8.1"
+numpy = "1.18.5"
+scipy = "1.5.4"
+scikit-learn = "0.24.1"
+gensim = "4.0.0"
+mlxtend = "0.18.0"
+matplotlib = "3.3.4"
+ipython = "7.15.0"
+jupyter = "1.0.0"
+jedi = "0.17.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
